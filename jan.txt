@@ -1,0 +1,35 @@
+monday
+2023-01-02
+
+first monday of the year. two big lessons: using absolute positioning is a bad idea
+and a focused 2-hour session on Monday is more productive than the entire Friday
+afternoon. finished developing the step by step component on a new company project
+after being stuck since last year. flexboxes, flexboxes everywhere.
+
+
+tuesday
+2023-01-03
+
+a ghost from the past took away most of my day. minor content adjustments from an older task to be deployed tomorrow. reduced scope so it could get through in time. started
+developing a dropdown component for the new company project. negotiated working hours for
+tomorrow, since i'll be travelling back to florianopolis.
+
+
+wednesday
+2023-01-04
+
+nothing but buses, traffic, uber and planes. thought i'd be able to work a few hours in the afternoon, but i arrived too late.
+
+
+thursday
+2023-01-05
+
+continued development of select component (renamed from dropdown). had a hard time
+typing an onClick function in React + TypeScript. FormEvent and MouseEvent lead to "no overload matches this call". called for help, we couldn't get around it and opted for a cheeky any + eslint disable.
+
+
+friday
+2023-01-06
+
+spent time styling an refactoring the select component. got familiar with passing onClick functions as props to react components. onClick && onClick(). created state for isOpen, as well as logic for toggling onClick and handleOutsideClick + eventListener. sent PR.
+
