@@ -1,2 +1,2 @@
 # job-log
-personal writings of my daily challenges as a junior software engineer
+personal writings of my daily triumphs and challenges as a junior software engineer
