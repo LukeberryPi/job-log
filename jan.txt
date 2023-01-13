@@ -39,3 +39,45 @@ spent time styling an refactoring the select component. got familiar with passin
 functions as props to react components. onClick && onClick(). created state for isOpen,
 as well as logic for toggling onClick and handleOutsideClick + eventListener. sent PR.
 
+
+monday
+2023-01-09
+
+my pr was unapproved: any not allowed! turns out the event should have been typed MouseEvent
+instead of React.MouseEvent. fixed this and refactored some import/exports around the repo.
+
+
+tuesday
+2023-01-10
+
+suffered with terrible internet in the afternoon. ended up doing mostly content edits
+and code reviews.
+
+
+wednesday
+2023-01-11
+
+welcomed back my PM (from vacation). asked for new tasks since the ones I had were blocked.
+got assigned two simple tasks on another project. took time to set up that project, do 1 task
+and start developing a new component: a top bar! (might be seen on https://hostgator.com.br
+ocasionally)
+
+
+thursday
+2023-01-12
+
+did most of the logic for the top bar. getting familiar with props and their types. this
+project uses typescript. it feels like a hurdle at first but very pleasant after a while.
+except for typing click functions. created props for top bar title, link and behavior open
+in new tab behavior: window.open(target, openInNewTab ? '_blank' : 'self').
+
+
+friday
+2023-01-13
+
+getting habituated with asking questions more frequently: was unsure how to unit test a 
+component in jest + React Testing Library. it's a generic top bar component that receives
+a link, and I am testing the onClick behavior. but i don't pass it an onClick prop? i was
+oriented to use Object.defineProperty on global object, add a location property and assign
+it a link.
+
