@@ -81,3 +81,4 @@ a link, and I am testing the onClick behavior. but i don't pass it an onClick pr
 oriented to use Object.defineProperty on global object, add a location property and assign
 it a link.
 
+adfiwbniodanwijndiaiwndoiansd
