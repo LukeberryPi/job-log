@@ -81,4 +81,42 @@ a link, and I am testing the onClick behavior. but i don't pass it an onClick pr
 oriented to use Object.defineProperty on global object, add a location property and assign
 it a link.
 
-adfiwbniodanwijndiaiwndoiansd
+
+monday
+2023-01-16
+
+got assigned a simple css fix. done in minutes. waiting for validation. extra meetings
+besides daily, to align priorities and refine our focus during Q1 2023. had no tasks for
+a while after lunch, got called out (don't do this). rescued an incomplete task from December.
+
+
+tuesday
+2023-01-17
+
+css fix validated. pr reviewed instantly, since it was a one-liner. managed to squeeze this
+change into today's deploy. win. meeting addressing some paradigm shifts in our engineering
+culture. focus is moving away from one-team === one-product towards one-team === macro-goals.
+more on this soon.
+
+
+wednesday
+2023-01-18
+
+even more meetings, busy week. ubuntu 20.04 is crashing three to five times a day, forcing a
+laptop restart + vpn reconnect, teams reconnect and e-mail reconnect. my workflow is terrible
+right now.
+
+
+thursday
+2023-01-19
+
+got assigned a very exciting accessibility task for the new project. basically hunting improvements
+to increase pagespeed score. learned how to get insights for performance and accessibility in a VPN
+protected url and localhost as well.
+
+
+friday
+2023-01-20
+
+adding alts, renaming links and overall accessibility improvements. very interesting meeting by the
+afternoon to address some of the squad challenges for Q1. very technical and challenging to follow.
