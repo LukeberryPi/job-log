@@ -87,7 +87,8 @@ monday
 
 got assigned a simple css fix. done in minutes. waiting for validation. extra meetings
 besides daily, to align priorities and refine our focus during Q1 2023. had no tasks for
-a while after lunch, got called out (don't do this). rescued an incomplete task from December.
+a while after lunch, got called out (don't do this). rescued an incomplete task from December,
+adding of a table.
 
 
 tuesday
@@ -120,3 +121,46 @@ friday
 
 adding alts, renaming links and overall accessibility improvements. very interesting meeting by the
 afternoon to address some of the squad challenges for Q1. very technical and challenging to follow.
+
+
+monday
+2023-01-23
+
+tinkering with accessibility insights. had a few back and forths with the PO on the table task.
+ultimately approved. unapproved right after by tech lead. severe disalignment issues. after a
+few hours of trying + asking for help, he told me that it is a simple react-slick change:
+slidesToShow={3} => slidesToShow{2}, since I ported this table from another page with 3 columns
+but this one has only 2.
+
+
+tuesday
+2023-01-24
+
+PR for accessibility got denied. i hard coded the aria labels + wrote them in English. it would be
+ideal to receive them from each page's content, so that it is relevant for Mexico, Colombia and
+Chile users. we operate in these 3 countries besides Brazil.
+
+
+wednesday
+2023-01-25
+
+planning at 9AM. it will be a relatively relaxed sprint for the front-end team, we are below
+capacity. this might + will change in the coming days. ended accessibility task + table addition
+task. heading into accessibility 2: the return of the king. this one has the changes that I couldn't
+make in time in the last task. 
+
+
+thursday
+2023-01-26
+
+tweaking of the accessibility task and the table task. yet to be approved. i will present our new
+project alongside a colleague next tuesday. quick chat with him in the afternoon. what, why, when
+and how will this new project impact our company? these are the answers i want to answer.
+
+
+friday
+2023-01-27
+
+2 of my PRs that were pending got approved! got assigned a task to update the skeleton (loading) layout
+for another product. had a front-end guild meeting at 3PM, showed up on time. got cancelled due to 
+insufficient quorum, overall a slow day.
