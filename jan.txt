@@ -164,3 +164,21 @@ friday
 2 of my PRs that were pending got approved! got assigned a task to update the skeleton (loading) layout
 for another product. had a front-end guild meeting at 3PM, showed up on time. got cancelled due to 
 insufficient quorum, overall a slow day.
+
+
+monday
+2023-01-30
+
+skelenton PR approved. handled a mainsite deploy by myself for the first time, under supervision of a
+senior and a junior colleague. had complications. some tests failed, but i got oriented to deploy anyway,
+under the assumption that it was a network mistake. turns out it was a modal component blocking clicks on
+an entire page. had to implement adjustments, reapprove PR, and restart the incomplete deploy. this cycle
+repeated a few times, leading to a 2-hour delay on the deploy.
+
+
+tuesday
+2023-01-31
+
+opened the first production PHP code of my life. i have heard severe prejudice about this language.
+i have never touched object-oriented code ever, personally or professionally. looks scary. i have a
+task to fix a count of "0 years" on an e-mail that we send to clients who register a domain.
