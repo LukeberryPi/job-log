@@ -19,8 +19,8 @@ simple. big win.
 friday
 2023-02-03
 
-spent my morning solving issues with my PHP PR. i didn't have the permissions to push any code to this
-repo. my senior gave me permissions, still nothing. contacted devOps, and it was a local issue. 
+spent my morning solving issues with my PHP PR. i didn't have the permissions to push any code to
+this repo. my senior gave me permissions, still nothing. contacted devOps, and it was a local issue. 
 solved by > sudo chown ${USER} -R on the correct directory. meeting combo: monthly engineering
 meetup + gator class, where people share updates on their projects and technology choices. solved
 two simple tasks. i currently feel more productive at the office than at home.
