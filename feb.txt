@@ -1,0 +1,26 @@
+wednesday
+2023-02-01
+
+had a townhall meeting where the CEO presented the new project my squad has been working on to
+the entire company: we acquired it is an ecommerce builder company (dlojavirtual.com). i am happy
+to see the acquisition, being that many other companies are doing hardcore layoffs and slowing
+down, it seems that we are expanding.                              
+
+
+thursday
+2023-02-02
+
+spent most of my day asking and understanding the PHP code on the email task, and how it relates
+to WHMCS. got some tips, but could only accomplish it after a 5 min call with a senior. as it is
+a different project and language, i don't feel too bad. ended up making the code correct and more
+simple. big win.
+
+
+friday
+2023-02-03
+
+spent my morning solving issues with my PHP PR. i didn't have the permissions to push any code to this
+repo. my senior gave me permissions, still nothing. contacted devOps, and it was a local issue. 
+solved by > sudo chown ${USER} -R on the correct directory. meeting combo: monthly engineering
+meetup + gator class, where people share updates on their projects and technology choices. solved
+two simple tasks. i currently feel more productive at the office than at home.
