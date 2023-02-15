@@ -1,12 +1,12 @@
-### january
+# january
 
-monday
-2023-01-02
+monday  
+2023-01-02  
 
 first monday of the year. two big lessons: using absolute positioning is a bad idea and a focused 2-hour session on monday is more productive than the entire friday afternoon. finished developing the step by step component on a new company projectafter being stuck since last year. flexboxes, flexboxes everywhere.
 
 
-tuesday
+tuesday  
 2023-01-03
 
 a ghost from the past took away most of my day. minor content adjustments from an older task to be deployed tomorrow. reduced scope so it could get through in time. started developing a dropdown component for the new company project. negotiated working hours for tomorrow, since i'll be travelling back to florianopolis.
